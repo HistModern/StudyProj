@@ -19,5 +19,8 @@ window.addEventListener('DOMContentLoaded', ()=>{
     }
 
 
+    hideTabContent();
+    showTabContent(0);
+
 
 });
